@@ -18,7 +18,7 @@ Potential retirees are considered to be current employees who were born between 
 
 * The total number of potential retirees is 72,458 (as captured in [unique_titles.csv](https://github.com/larabjork/pewlett-hackard-analysis/blob/main/data/unique_titles.csv)).
 
-* Of that total, 70% of potential retirees are currently either Senior Engineers or Senior Staff, as shown in the table below (and in  [retiring_titles.csv](https://github.com/larabjork/pewlett-hackard-analysis/blob/main/data/retiring_titles.csv)).
+* Of that total, 70% of potential retirees are currently either Senior Engineers or Senior Staff, as shown in the table below (and in [retiring_titles.csv](https://github.com/larabjork/pewlett-hackard-analysis/blob/main/data/retiring_titles.csv)).
 
 ![table with potential retirees by title](https://github.com/larabjork/pewlett-hackard-analysis/blob/main/resources/retiring_titles.png)
 
@@ -38,7 +38,7 @@ As stated above, as many as 72,458 employees could be retiring in the near to sh
 
 In addition to understanding which title categories are most affected, it also important to look at whether departments may be affected differently. As shown below, Development, Production, and Sales will be most heavily affected.
 
-[table with counts of retiring employees by department](https://github.com/larabjork/pewlett-hackard-analysis/blob/main/resources/ret_count_by_dept.png)
+![table with counts of retiring employees by department](https://github.com/larabjork/pewlett-hackard-analysis/blob/main/resources/ret_count_by_dept.png)
 
 * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
 
@@ -46,7 +46,7 @@ Based on title categories, it would appear that there are sufficient potential r
 
 The table below lists the number of employees by current title, first for potential retirees (ret_count) and then for potential mentees (mentee_count). Given that the retirement pool has at least one if not two orders of magnitude more people in it than in the next highest title category (if applicable), it would appear that there are sufficient numbers of people to create a mentorship program.
 
-[title categories with counts by retirees, mentees](https://github.com/larabjork/pewlett-hackard-analysis/blob/main/resources/count_retire_mentor_titles.png)
+![title categories with counts by retirees, mentees](https://github.com/larabjork/pewlett-hackard-analysis/blob/main/resources/count_retire_mentor_titles.png)
 
 Given the scale of likely retirements, Pewlett Hackard leadership may want to:
 
